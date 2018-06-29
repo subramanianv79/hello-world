@@ -1,0 +1,5 @@
+Hellow there 
+This file is created to test the branch commits
+Creation Date: 06/29/2018
+I saw 3 commits before this file is created
+I want to know how many commits will be saved in the repository after this file is merged into master branch
